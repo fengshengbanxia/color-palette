@@ -48,3 +48,6 @@
 ### 查看不同颜色格式
 - 所有格式会在信息面板中同时显示。  
 - 当选择新颜色时，格式会自动更新。
+
+![](https://tgpicture.6666689.xyz/file/1745245097297_image.png)
+![](https://tgpicture.6666689.xyz/file/1745245109305_image.png)

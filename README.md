@@ -48,3 +48,6 @@
 ### View Different Color Formats
 - All formats are displayed simultaneously in the information panel.  
 - Formats update automatically when a new color is selected.
+
+![](https://tgpicture.6666689.xyz/file/1745245097297_image.png)
+![](https://tgpicture.6666689.xyz/file/1745245109305_image.png)

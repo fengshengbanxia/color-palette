@@ -1,5 +1,7 @@
 # Summary of the Color Palette Web Page
 
+[中文版](README-zh.md)
+
 ## Features
 
 ### Basic and Extended Color Sections
